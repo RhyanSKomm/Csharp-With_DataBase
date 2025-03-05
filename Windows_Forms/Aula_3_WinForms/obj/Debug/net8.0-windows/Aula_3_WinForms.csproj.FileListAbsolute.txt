@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\bin\Debug\net8.0-windows\Aula_3_WinForms.exe
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\bin\Debug\net8.0-windows\Aula_3_WinForms.deps.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\bin\Debug\net8.0-windows\Aula_3_WinForms.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\bin\Debug\net8.0-windows\Aula_3_WinForms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\bin\Debug\net8.0-windows\Aula_3_WinForms.pdb
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.sourcelink.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\refint\Aula_3_WinForms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.pdb
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\Aula_3_WinForms.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_WinForms\obj\Debug\net8.0-windows\ref\Aula_3_WinForms.dll

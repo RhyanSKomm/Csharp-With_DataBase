@@ -1,0 +1,15 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Class_Partial
+{
+    public partial class Classe
+    {
+        public void medotoB()
+        {
+            System.Console.WriteLine("B");
+        }
+    }
+}

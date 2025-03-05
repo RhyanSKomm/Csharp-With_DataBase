@@ -1,0 +1,15 @@
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\bin\Debug\net8.0-windows\Aula_3_Console_Forms.exe
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\bin\Debug\net8.0-windows\Aula_3_Console_Forms.deps.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\bin\Debug\net8.0-windows\Aula_3_Console_Forms.runtimeconfig.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\bin\Debug\net8.0-windows\Aula_3_Console_Forms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\bin\Debug\net8.0-windows\Aula_3_Console_Forms.pdb
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.AssemblyInfoInputs.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.AssemblyInfo.cs
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.csproj.CoreCompileInputs.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.sourcelink.json
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\refint\Aula_3_Console_Forms.dll
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.pdb
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\Aula_3_Console_Forms.genruntimeconfig.cache
+C:\Users\rhyansantiago\Desktop\Backend\Windows_Forms\Aula_3_Console_Forms\obj\Debug\net8.0-windows\ref\Aula_3_Console_Forms.dll
