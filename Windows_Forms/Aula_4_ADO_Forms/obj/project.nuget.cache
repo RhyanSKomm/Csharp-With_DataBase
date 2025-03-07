@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXQRDJWv4nQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rhyansantiago\\Desktop\\Backend\\Windows_Forms\\Aula_4_ADO_Forms\\Aula_4_ADO_Forms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhyansantiago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\rhyansantiago\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\rhyansantiago\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

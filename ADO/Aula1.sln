@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Partial", "..\Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_3_Console_Forms", "..\Windows_Forms\Aula_3_Console_Forms\Aula_3_Console_Forms.csproj", "{AF734CF0-A6C8-4891-83A9-0BEA7D16A6CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_4_ADO_Forms", "..\Windows_Forms\Aula_4_ADO_Forms\Aula_4_ADO_Forms.csproj", "{08ED8119-F819-4C34-A007-70D069228BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Entity_Forms", "..\Windows_Forms\Exercicio_Entity_Forms\Exercicio_Entity_Forms.csproj", "{3C2A0A96-486C-44AC-A891-0B438A28CBAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +62,13 @@ Global
 		{AF734CF0-A6C8-4891-83A9-0BEA7D16A6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF734CF0-A6C8-4891-83A9-0BEA7D16A6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF734CF0-A6C8-4891-83A9-0BEA7D16A6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08ED8119-F819-4C34-A007-70D069228BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08ED8119-F819-4C34-A007-70D069228BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08ED8119-F819-4C34-A007-70D069228BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08ED8119-F819-4C34-A007-70D069228BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2A0A96-486C-44AC-A891-0B438A28CBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2A0A96-486C-44AC-A891-0B438A28CBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2A0A96-486C-44AC-A891-0B438A28CBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2A0A96-486C-44AC-A891-0B438A28CBAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
